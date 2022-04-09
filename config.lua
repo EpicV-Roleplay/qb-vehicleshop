@@ -253,17 +253,17 @@ Config.Shops = {
         ['VehicleSpawn'] = vector4(211.1, 2748.89, 43.43, 89.69),
         ['ShowroomVehicles'] = {
             [1] = {
-                coords = vector4(168.61, 2749.85, 44.45 -0.9, 273.71), --vector4(169.44, 2746.52, 43.42 -0.9, 278.02)
+                coords = vector4(168.61, 2749.85, 44.45 -1.4, 273.71), --vector4(169.44, 2746.52, 43.42 -0.9, 278.02)
                 defaultVehicle = 'trailersmall',
                 chosenVehicle = 'trailersmall',
             },
             [2] = {
-                coords = vector4(168.98, 2754.19, 43.63 -0.9, 276.76), --vector4(-207.19, 6202.81, 30.89, 251.33)
+                coords = vector4(168.98, 2754.19, 43.63 -1.2, 276.76), --vector4(-207.19, 6202.81, 30.89, 251.33)
                 defaultVehicle = 'mule2',
                 chosenVehicle = 'mule2',
             },
             [3] = {
-                coords = vector4(169.44, 2746.52, 43.42 -0.9, 278.02), --vector4(-207.19, 6202.81, 30.89, 251.33)
+                coords = vector4(169.44, 2746.52, 43.42 -1.0, 278.02), --vector4(-207.19, 6202.81, 30.89, 251.33)
                 defaultVehicle = 'bison',
                 chosenVehicle = 'bison',
             }
